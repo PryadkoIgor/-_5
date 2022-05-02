@@ -1,0 +1,15 @@
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\bin\Debug\net6.0\Задача_38.exe
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\bin\Debug\net6.0\Задача_38.deps.json
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\bin\Debug\net6.0\Задача_38.runtimeconfig.json
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\bin\Debug\net6.0\Задача_38.dll
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\bin\Debug\net6.0\Задача_38.pdb
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\Задача_38.csproj.AssemblyReference.cache
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\Задача_38.GeneratedMSBuildEditorConfig.editorconfig
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\Задача_38.AssemblyInfoInputs.cache
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\Задача_38.AssemblyInfo.cs
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\Задача_38.csproj.CoreCompileInputs.cache
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\Задача_38.dll
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\refint\Задача_38.dll
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\Задача_38.pdb
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\Задача_38.genruntimeconfig.cache
+W:\GB\ДЗ\ДЗ_1-11\Задача_38\obj\Debug\net6.0\ref\Задача_38.dll
